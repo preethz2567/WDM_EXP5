@@ -1,7 +1,7 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
 ### DATE: 26-09-25
 ### NAME: Preethi D
-### Reg.no: 212224230172
+### Reg.no: 212224040250
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
 <div align = "justify">
